@@ -1,7 +1,6 @@
 ### I'm Angy! 😄
 
-![Image of Yaktocat](https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif)
-
+<img src="https://i.pinimg.com/originals/0d/a5/cb/0da5cbca5d728a789100439958f50235.gif" width="250" height="200" style="{ margin: 50% };">
 
 - :woman_technologist: I'm a software developer 
 
